@@ -45,6 +45,6 @@ Download and extract the zip file to a directory of your choice.
 
 Via command line:
 
-`$ git clone https://github.com/puglisac/coursera-c-sharp-ex11.git`  
+`$ git clone https://github.com/puglisac/coursera-c-sharp-ex12.git`  
 
 add folder to [Unity](https://unity.com/) with [Unity Hub](https://unity3d.com/get-unity/download).
